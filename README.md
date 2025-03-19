@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @JuuzouOnVal
-- 👀 I’m interested in Games(Helldivers 2, Gatcha games, Valorant/CS, Minecraft), Anime and Manga, Drawing and Programming/Pc's
-- 🌱 I’m currently learning how to draw and code
 - 💞️ I’m looking to collaborate on nothing for now
-- 📫 How to reach me: don't
-- 😄 Pronouns: ...
+- 📫 How to reach me: /
 - ⚡ Fun fact: My nickname online is either Juuzou or Yuki
 
 <!---
