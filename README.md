@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JuuzouOnVal
-- 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me: /
-- ⚡ Fun fact: My nickname online is either Juuzou or Yuki
+- ⚡ Fun fact: -
 
 <!---
 JuuzouOnVal/JuuzouOnVal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
