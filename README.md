@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JuuzouOnVal
 - 📫 How to reach me: /
-- ⚡ Fun fact: -
-- Note: most of my repos are private
+- most of my repos are private
 
 <!---
 JuuzouOnVal/JuuzouOnVal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
